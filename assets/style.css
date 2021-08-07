@@ -4,12 +4,10 @@
   }
 
 body {
-    /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
   }
 
-  /* apply styles to <header> */
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -39,3 +37,16 @@ header {
     font-weight: lighter;
     font-size: 22px;
   }
+  footer {
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+    }
+footer div {
+float: right;
+line-height: 1.5;
+text-align: right;
+}
+footer a {
+ color: #024e76;
+}

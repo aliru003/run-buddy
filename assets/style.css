@@ -51,3 +51,13 @@ text-align: right;
 footer a {
  color: #024e76;
 }
+/* Hero Style Start */
+.hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+  }
+  /* Hero Style End */
+
+section {
+    padding: 60px;
+  }
